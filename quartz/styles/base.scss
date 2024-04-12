@@ -179,10 +179,16 @@ a {
         .search {
           grid-column: span 5 / span 5;
         }
+        .page-title{
+          display: none;
+        }
         .darkmode {
           grid-column: span 1 / span 1;
           margin-left: 15px;
           cursor: pointer;
+        }
+        .explorer{
+          padding-left: .5rem;
         }
       }
     }

@@ -28,7 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
-        title: "他拿错",
         folderDefaultState: "open",
         folderClickBehavior: "link",
       }),

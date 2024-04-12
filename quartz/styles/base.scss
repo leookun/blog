@@ -180,7 +180,10 @@ a {
           grid-column: span 5 / span 5;
         }
         .page-title{
-          display: none;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap:10px
         }
         .darkmode {
           grid-column: span 1 / span 1;
@@ -493,7 +496,7 @@ p > img + em {
 
 hr {
   width: 100%;
-  margin: 2rem auto;
+  margin: 1.5rem auto;
   height: 1px;
   border: none;
   background-color: var(--lightgray);

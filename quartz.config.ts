@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "leokun.cn",
+    pageTitle: "leokun",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

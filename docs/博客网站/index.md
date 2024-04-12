@@ -5,6 +5,8 @@ title: 我的网站
 
 Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
 
+![](../_%E9%99%84%E4%BB%B6/Pasted%20image%2020240412110648.png)
+
   
 ## 🪴 Get Started1
 

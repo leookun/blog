@@ -73,6 +73,11 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
+            if (file.data.frontmatter) {
+                file.data.frontmatter.title =
+                  file.data.frontmatter?.["标题"] || file.data.frontmatter.title as any
+            }
+            
           }
         },
       ]

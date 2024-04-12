@@ -8,10 +8,10 @@ ul.section-ul {
 
 li.section-li {
   margin-bottom: 1em;
-
+  
   & > .section {
     display: grid;
-    grid-template-columns: 6em 3fr 1fr;
+    grid-template-columns: 7em 3fr 1fr;
 
     @media all and (max-width: $mobileBreakpoint) {
       & > .tags {

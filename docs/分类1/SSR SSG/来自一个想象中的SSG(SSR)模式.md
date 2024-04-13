@@ -9,5 +9,5 @@ solid有一个discussion [ How is SSG doing?](https://github.com/solidjs/solid/d
 
 就像这样：
 
-![[../_附件/Pasted image 20240413213121.png|Pasted image 20240413213121.png]]
-![[../_附件/Pasted image 20240413213336.png|Pasted image 20240413213336.png]]
+![[../../_附件/Pasted image 20240413213121.png|Pasted image 20240413213121.png]]
+![[../../_附件/Pasted image 20240413213336.png|Pasted image 20240413213336.png]]
